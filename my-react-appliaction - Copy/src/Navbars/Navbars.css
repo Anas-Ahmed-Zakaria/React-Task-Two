@@ -1,0 +1,12 @@
+.counter__increase {
+    background-color: red !important;
+    width: 25px !important;
+    height: 25px !important;
+    border-radius: 50% !important;
+    display: flex !important;
+    justify-content: center !important;
+    align-items: center !important;
+    position: absolute;
+    top: 1px;
+    right: 90px;
+}
